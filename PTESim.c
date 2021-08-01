@@ -133,5 +133,5 @@ int main(int argc, char ** argv) {
     free(PTEvalid);
     free(PTEframes);
     free(PTElastref);
-	free(memAccesses);
+    free(memAccesses);
 }
